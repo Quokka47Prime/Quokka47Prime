@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Swift, Functional Programming, and Clean Architecture
-- 🌱 I’m currently learning Simple Clean Functional Swift
+- 🌱 Simplifying the middle tier of the app with FP and Clean to decouple data from UI.
 - 👯 I’m looking to collaborate on iOS / macOS Swift Development
 - 💬 Ask me about newer alternatives to OOP
 - 📫 How to reach me: WayneO.Johnson854@[the, big, Google, gmail.com][3]
