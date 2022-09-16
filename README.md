@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 iOS / macOS Swift, Functional Programming, Clean Architecture
+- 🔭 I'm into iOS / macOS Swift, Functional Programming, Clean Architecture
 - 🌱 Simplifying the middle tier of the app with FP and Clean to decouple data from UI.
 - 💬 Ask me about newer alternatives to OOP
 - 📫 How to reach me: WayneO.Johnson854@[the, big, Google, gmail.com][3]
