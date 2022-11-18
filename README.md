@@ -8,6 +8,6 @@
 - 🔭 I'm into iOS / macOS Swift, Functional Programming, Clean Architecture
 - 🌱 Simplifying the middle tier of the app with FP and Clean to decouple data from UI.
 - 💬 Ask me about newer alternatives to OOP
-- 📫 How to reach me: WayneO.Johnson854@[the, big, Google, gmail.com][3]
+- 📫 How to reach me: https://quokka47prime.github.io/support.html
 - ⚡ Fun fact: I'm sort of an advanced guitarist.
 
