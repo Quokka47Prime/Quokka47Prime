@@ -7,7 +7,7 @@
 
 - 🔭 I'm into iOS / macOS Swift, Functional Programming, Clean Architecture
 - 🌱 Simplifying the middle tier of the app with FP and Clean to decouple data from UI.
-- 💬 Faster product development from a simple architecture.
+- 💬 Faster product development from simpler architecture.
 - 📫 How to reach me: https://quokka47prime.github.io/support.html
 - ⚡ Fun fact: I'm a beginning advanced guitarist.
 
