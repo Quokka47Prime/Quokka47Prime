@@ -6,7 +6,7 @@
 
 
 - 🔭 I'm into iOS / macOS Swift, Functional Programming, Clean Architecture
-- 🌱 Simplifying the app's middle tier by decoupling data from both UI and adaptors to external REST APIs.
+- 🌱 Simplifying iOS app's middle tier by decoupling data from both UI and adaptors to external REST APIs.
 - 💬 Can we discover faster product development from simpler architecture?
 - 📫 To reach me, check the box at: https://quokka47prime.github.io/support.html
 - ⚡ Fun fact: I'm a beginning advanced guitarist.
